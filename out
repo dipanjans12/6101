@@ -1,0 +1,600 @@
+job submitted
+job started
+14:20:02.828 task 0 finished on worker 0
+14:20:03.831 task 1 finished on worker 0
+job finished
+jobId=61 arrivalTime=14:20:01.804 waitTime=3 execTime=2007
+job submitted
+job started
+14:20:05.204 task 1 finished on worker 0
+14:20:06.311 task 0 finished on worker 0
+job finished
+jobId=63 arrivalTime=14:20:04.091 waitTime=92 execTime=2110
+job submitted
+job started
+14:20:07.579 task 0 finished on worker 0
+14:20:08.686 task 1 finished on worker 0
+job finished
+jobId=65 arrivalTime=14:20:06.553 waitTime=2 execTime=2111
+job submitted
+job started
+14:20:09.959 task 0 finished on worker 0
+14:20:11.066 task 1 finished on worker 0
+job finished
+jobId=67 arrivalTime=14:20:08.932 waitTime=3 execTime=2111
+job submitted
+job started
+14:20:12.337 task 0 finished on worker 0
+14:20:13.444 task 1 finished on worker 0
+job finished
+jobId=69 arrivalTime=14:20:11.313 waitTime=3 execTime=2110
+job submitted
+job started
+14:20:14.721 task 0 finished on worker 0
+14:20:15.827 task 1 finished on worker 0
+job finished
+jobId=71 arrivalTime=14:20:13.695 waitTime=3 execTime=2109
+job submitted
+job started
+14:20:17.109 task 0 finished on worker 0
+14:20:18.216 task 1 finished on worker 0
+job finished
+jobId=73 arrivalTime=14:20:16.084 waitTime=3 execTime=2110
+job submitted
+job started
+14:20:19.508 task 0 finished on worker 0
+14:20:20.615 task 1 finished on worker 0
+job finished
+jobId=75 arrivalTime=14:20:18.483 waitTime=2 execTime=2110
+job submitted
+job started
+14:20:21.905 task 0 finished on worker 0
+14:20:23.011 task 1 finished on worker 0
+job finished
+jobId=77 arrivalTime=14:20:20.878 waitTime=3 execTime=2110
+job submitted
+job started
+14:20:24.316 task 1 finished on worker 0
+14:20:25.429 task 0 finished on worker 0
+job finished
+jobId=79 arrivalTime=14:20:23.289 waitTime=3 execTime=2116
+job submitted
+job started
+14:20:26.719 task 0 finished on worker 0
+14:20:27.825 task 1 finished on worker 0
+job finished
+jobId=81 arrivalTime=14:20:25.692 waitTime=2 execTime=2110
+job submitted
+job started
+14:20:29.122 task 0 finished on worker 0
+14:20:30.228 task 1 finished on worker 0
+job finished
+jobId=83 arrivalTime=14:20:28.098 waitTime=3 execTime=2109
+job submitted
+job started
+14:20:31.526 task 0 finished on worker 0
+14:20:32.632 task 1 finished on worker 0
+job finished
+jobId=85 arrivalTime=14:20:30.500 waitTime=3 execTime=2109
+job submitted
+job started
+14:20:33.926 task 0 finished on worker 0
+14:20:35.032 task 1 finished on worker 0
+job finished
+jobId=87 arrivalTime=14:20:32.902 waitTime=2 execTime=2108
+job submitted
+job started
+14:20:36.333 task 0 finished on worker 0
+14:20:37.440 task 1 finished on worker 0
+job finished
+jobId=89 arrivalTime=14:20:35.305 waitTime=3 execTime=2110
+job submitted
+job started
+14:20:38.725 task 0 finished on worker 0
+14:20:39.835 task 1 finished on worker 0
+job finished
+jobId=91 arrivalTime=14:20:37.702 waitTime=1 execTime=2113
+job submitted
+job started
+14:20:41.135 task 0 finished on worker 0
+14:20:42.241 task 1 finished on worker 0
+job finished
+jobId=93 arrivalTime=14:20:40.110 waitTime=3 execTime=2108
+job submitted
+job started
+14:20:43.536 task 0 finished on worker 0
+14:20:44.641 task 1 finished on worker 0
+job finished
+jobId=95 arrivalTime=14:20:42.512 waitTime=1 execTime=2109
+job submitted
+job started
+14:20:45.990 task 0 finished on worker 0
+14:20:47.096 task 1 finished on worker 0
+job finished
+jobId=97 arrivalTime=14:20:44.963 waitTime=2 execTime=2109
+job submitted
+job started
+14:20:48.389 task 0 finished on worker 0
+14:20:49.494 task 1 finished on worker 0
+job finished
+jobId=99 arrivalTime=14:20:47.361 waitTime=4 execTime=2108
+job submitted
+job started
+14:20:50.775 task 0 finished on worker 0
+14:20:51.882 task 1 finished on worker 0
+job finished
+jobId=101 arrivalTime=14:20:49.752 waitTime=3 execTime=2109
+job submitted
+job started
+14:20:53.173 task 0 finished on worker 0
+14:20:54.278 task 1 finished on worker 0
+job finished
+jobId=103 arrivalTime=14:20:52.148 waitTime=3 execTime=2109
+job submitted
+job started
+14:20:55.568 task 0 finished on worker 0
+14:20:56.674 task 1 finished on worker 0
+job finished
+jobId=105 arrivalTime=14:20:54.542 waitTime=2 execTime=2109
+job submitted
+job started
+14:20:57.960 task 0 finished on worker 0
+14:20:59.069 task 1 finished on worker 0
+job finished
+jobId=107 arrivalTime=14:20:56.920 waitTime=3 execTime=2114
+job submitted
+job started
+14:21:00.411 task 0 finished on worker 0
+14:21:01.518 task 1 finished on worker 0
+job finished
+jobId=109 arrivalTime=14:20:59.383 waitTime=3 execTime=2109
+job submitted
+job started
+14:21:02.811 task 0 finished on worker 0
+14:21:03.919 task 1 finished on worker 0
+job finished
+jobId=111 arrivalTime=14:21:01.788 waitTime=3 execTime=2111
+job submitted
+job started
+14:21:05.199 task 0 finished on worker 0
+14:21:06.305 task 1 finished on worker 0
+job finished
+jobId=113 arrivalTime=14:21:04.174 waitTime=2 execTime=2108
+job submitted
+job started
+14:21:07.592 task 0 finished on worker 0
+14:21:08.698 task 1 finished on worker 0
+job finished
+jobId=115 arrivalTime=14:21:06.562 waitTime=4 execTime=2109
+job submitted
+job started
+14:21:09.982 task 0 finished on worker 0
+14:21:11.088 task 1 finished on worker 0
+job finished
+jobId=117 arrivalTime=14:21:08.954 waitTime=3 execTime=2110
+job submitted
+job started
+14:21:12.378 task 0 finished on worker 0
+14:21:13.484 task 1 finished on worker 0
+job finished
+jobId=119 arrivalTime=14:21:11.354 waitTime=4 execTime=2110
+job submitted
+job started
+14:21:14.754 task 0 finished on worker 0
+14:21:15.859 task 1 finished on worker 0
+job finished
+jobId=121 arrivalTime=14:21:13.721 waitTime=2 execTime=2110
+job submitted
+job started
+14:21:17.138 task 0 finished on worker 0
+14:21:18.245 task 1 finished on worker 0
+job finished
+jobId=123 arrivalTime=14:21:16.107 waitTime=7 execTime=2111
+job submitted
+job started
+14:21:19.518 task 0 finished on worker 0
+14:21:20.624 task 1 finished on worker 0
+job finished
+jobId=125 arrivalTime=14:21:18.493 waitTime=3 execTime=2109
+job submitted
+job started
+14:21:21.940 task 0 finished on worker 0
+14:21:23.046 task 1 finished on worker 0
+job finished
+jobId=127 arrivalTime=14:21:20.875 waitTime=42 execTime=2111
+job submitted
+job started
+14:21:24.332 task 0 finished on worker 0
+14:21:25.438 task 1 finished on worker 0
+job finished
+jobId=129 arrivalTime=14:21:23.307 waitTime=3 execTime=2109
+job submitted
+job started
+14:21:26.704 task 0 finished on worker 0
+14:21:27.811 task 1 finished on worker 0
+job finished
+jobId=131 arrivalTime=14:21:25.680 waitTime=3 execTime=2111
+job submitted
+job started
+14:21:29.084 task 0 finished on worker 0
+14:21:30.189 task 1 finished on worker 0
+job finished
+jobId=133 arrivalTime=14:21:28.061 waitTime=2 execTime=2109
+job submitted
+job started
+14:21:31.474 task 0 finished on worker 0
+14:21:32.580 task 1 finished on worker 0
+job finished
+jobId=135 arrivalTime=14:21:30.450 waitTime=3 execTime=2110
+job submitted
+job started
+14:21:33.861 task 0 finished on worker 0
+14:21:34.967 task 1 finished on worker 0
+job finished
+jobId=137 arrivalTime=14:21:32.833 waitTime=2 execTime=2109
+job submitted
+job started
+14:21:36.251 task 0 finished on worker 0
+14:21:37.357 task 1 finished on worker 0
+job finished
+jobId=139 arrivalTime=14:21:35.225 waitTime=2 execTime=2110
+job submitted
+job started
+14:21:38.680 task 0 finished on worker 0
+14:21:39.786 task 1 finished on worker 0
+job finished
+jobId=141 arrivalTime=14:21:37.610 waitTime=47 execTime=2109
+job submitted
+job started
+14:21:41.106 task 0 finished on worker 0
+14:21:42.217 task 1 finished on worker 0
+job finished
+jobId=143 arrivalTime=14:21:40.080 waitTime=2 execTime=2114
+job submitted
+job started
+14:21:43.492 task 0 finished on worker 0
+14:21:44.598 task 1 finished on worker 0
+job finished
+jobId=145 arrivalTime=14:21:42.465 waitTime=3 execTime=2109
+job submitted
+job started
+14:21:45.890 task 0 finished on worker 0
+14:21:46.996 task 1 finished on worker 0
+job finished
+jobId=147 arrivalTime=14:21:44.854 waitTime=11 execTime=2110
+job submitted
+job started
+14:21:48.441 task 0 finished on worker 0
+14:21:49.547 task 1 finished on worker 0
+job finished
+jobId=149 arrivalTime=14:21:47.255 waitTime=160 execTime=2110
+job submitted
+job started
+14:21:50.818 task 0 finished on worker 0
+14:21:51.926 task 1 finished on worker 0
+job finished
+jobId=151 arrivalTime=14:21:49.793 waitTime=3 execTime=2111
+job submitted
+job started
+14:21:53.201 task 0 finished on worker 0
+14:21:54.306 task 1 finished on worker 0
+job finished
+jobId=153 arrivalTime=14:21:52.177 waitTime=2 execTime=2110
+job submitted
+job started
+14:21:55.596 task 0 finished on worker 0
+14:21:56.703 task 1 finished on worker 0
+job finished
+jobId=155 arrivalTime=14:21:54.573 waitTime=3 execTime=2109
+job submitted
+job started
+14:21:58.005 task 0 finished on worker 0
+14:21:59.112 task 1 finished on worker 0
+job finished
+jobId=157 arrivalTime=14:21:56.975 waitTime=2 execTime=2110
+job submitted
+job started
+14:22:00.424 task 0 finished on worker 0
+14:22:01.529 task 1 finished on worker 0
+job finished
+jobId=159 arrivalTime=14:21:59.396 waitTime=3 execTime=2109
+job submitted
+job started
+14:22:02.843 task 0 finished on worker 0
+14:22:03.949 task 1 finished on worker 0
+job finished
+jobId=161 arrivalTime=14:22:01.815 waitTime=3 execTime=2109
+job submitted
+job started
+14:22:05.249 task 0 finished on worker 0
+14:22:06.355 task 1 finished on worker 0
+job finished
+jobId=163 arrivalTime=14:22:04.222 waitTime=3 execTime=2110
+job submitted
+job started
+14:22:07.654 task 0 finished on worker 0
+14:22:08.760 task 1 finished on worker 0
+job finished
+jobId=165 arrivalTime=14:22:06.625 waitTime=3 execTime=2110
+job submitted
+job started
+14:22:10.064 task 0 finished on worker 0
+14:22:11.171 task 1 finished on worker 0
+job finished
+jobId=167 arrivalTime=14:22:09.038 waitTime=3 execTime=2109
+job submitted
+job started
+14:22:12.462 task 0 finished on worker 0
+14:22:13.569 task 1 finished on worker 0
+job finished
+jobId=169 arrivalTime=14:22:11.435 waitTime=3 execTime=2110
+job submitted
+job started
+14:22:14.854 task 0 finished on worker 0
+14:22:15.960 task 1 finished on worker 0
+job finished
+jobId=171 arrivalTime=14:22:13.828 waitTime=1 execTime=2109
+job submitted
+job started
+14:22:17.238 task 0 finished on worker 0
+14:22:18.345 task 1 finished on worker 0
+job finished
+jobId=173 arrivalTime=14:22:16.212 waitTime=3 execTime=2110
+job submitted
+job started
+14:22:19.624 task 0 finished on worker 0
+14:22:20.730 task 1 finished on worker 0
+job finished
+jobId=175 arrivalTime=14:22:18.599 waitTime=3 execTime=2109
+job submitted
+job started
+14:22:22.011 task 0 finished on worker 0
+14:22:23.118 task 1 finished on worker 0
+job finished
+jobId=177 arrivalTime=14:22:20.987 waitTime=2 execTime=2111
+job submitted
+job started
+14:22:24.394 task 0 finished on worker 0
+14:22:25.505 task 1 finished on worker 0
+job finished
+jobId=179 arrivalTime=14:22:23.364 waitTime=4 execTime=2114
+job submitted
+job started
+14:22:26.785 task 0 finished on worker 0
+14:22:27.891 task 1 finished on worker 0
+job finished
+jobId=181 arrivalTime=14:22:25.755 waitTime=3 execTime=2109
+job submitted
+job started
+14:22:29.166 task 0 finished on worker 0
+14:22:30.273 task 1 finished on worker 0
+job finished
+jobId=183 arrivalTime=14:22:28.138 waitTime=1 execTime=2111
+job submitted
+job started
+14:22:31.542 task 0 finished on worker 0
+14:22:32.649 task 1 finished on worker 0
+job finished
+jobId=185 arrivalTime=14:22:30.514 waitTime=7 execTime=2109
+job submitted
+job started
+14:22:33.917 task 0 finished on worker 0
+14:22:35.023 task 1 finished on worker 0
+job finished
+jobId=187 arrivalTime=14:22:32.895 waitTime=1 execTime=2109
+job submitted
+job started
+14:22:36.292 task 0 finished on worker 0
+14:22:37.398 task 1 finished on worker 0
+job finished
+jobId=189 arrivalTime=14:22:35.268 waitTime=3 execTime=2110
+job submitted
+job started
+14:22:38.696 task 0 finished on worker 0
+14:22:39.801 task 1 finished on worker 0
+job finished
+jobId=191 arrivalTime=14:22:37.646 waitTime=28 execTime=2109
+job submitted
+job started
+14:22:41.073 task 0 finished on worker 0
+14:22:42.180 task 1 finished on worker 0
+job finished
+jobId=193 arrivalTime=14:22:40.045 waitTime=3 execTime=2111
+job submitted
+job started
+14:22:43.539 task 0 finished on worker 0
+14:22:44.645 task 1 finished on worker 0
+job finished
+jobId=195 arrivalTime=14:22:42.514 waitTime=2 execTime=2109
+job submitted
+job started
+14:22:45.932 task 0 finished on worker 0
+14:22:47.039 task 1 finished on worker 0
+job finished
+jobId=197 arrivalTime=14:22:44.905 waitTime=3 execTime=2110
+job submitted
+job started
+14:22:48.323 task 0 finished on worker 0
+14:22:49.428 task 1 finished on worker 0
+job finished
+jobId=199 arrivalTime=14:22:47.298 waitTime=3 execTime=2108
+job submitted
+job started
+14:22:50.719 task 0 finished on worker 0
+14:22:51.823 task 1 finished on worker 0
+job finished
+jobId=201 arrivalTime=14:22:49.695 waitTime=2 execTime=2108
+job submitted
+job started
+14:22:53.121 task 0 finished on worker 0
+14:22:54.228 task 1 finished on worker 0
+job finished
+jobId=203 arrivalTime=14:22:52.092 waitTime=3 execTime=2110
+job submitted
+job started
+14:22:55.538 task 0 finished on worker 0
+14:22:56.643 task 1 finished on worker 0
+job finished
+jobId=205 arrivalTime=14:22:54.510 waitTime=3 execTime=2109
+job submitted
+job started
+14:22:57.949 task 0 finished on worker 0
+14:22:59.055 task 1 finished on worker 0
+job finished
+jobId=207 arrivalTime=14:22:56.923 waitTime=3 execTime=2110
+job submitted
+job started
+14:23:00.353 task 0 finished on worker 0
+14:23:01.459 task 1 finished on worker 0
+job finished
+jobId=209 arrivalTime=14:22:59.326 waitTime=3 execTime=2109
+job submitted
+job started
+14:23:02.814 task 0 finished on worker 0
+14:23:03.921 task 1 finished on worker 0
+job finished
+jobId=211 arrivalTime=14:23:01.738 waitTime=49 execTime=2112
+job submitted
+job started
+14:23:05.228 task 0 finished on worker 0
+14:23:06.334 task 1 finished on worker 0
+job finished
+jobId=213 arrivalTime=14:23:04.201 waitTime=2 execTime=2110
+job submitted
+job started
+14:23:07.654 task 0 finished on worker 0
+14:23:08.761 task 1 finished on worker 0
+job finished
+jobId=215 arrivalTime=14:23:06.621 waitTime=6 execTime=2110
+job submitted
+job started
+14:23:10.065 task 0 finished on worker 0
+14:23:11.170 task 1 finished on worker 0
+job finished
+jobId=217 arrivalTime=14:23:09.037 waitTime=3 execTime=2108
+job submitted
+job started
+14:23:12.466 task 0 finished on worker 0
+14:23:13.585 task 1 finished on worker 0
+job finished
+jobId=219 arrivalTime=14:23:11.431 waitTime=4 execTime=2127
+job submitted
+job started
+14:23:14.879 task 0 finished on worker 0
+14:23:15.984 task 1 finished on worker 0
+job finished
+jobId=221 arrivalTime=14:23:13.849 waitTime=4 execTime=2107
+job submitted
+job started
+14:23:17.280 task 0 finished on worker 0
+14:23:18.386 task 1 finished on worker 0
+job finished
+jobId=223 arrivalTime=14:23:16.252 waitTime=2 execTime=2110
+job submitted
+job started
+14:23:19.685 task 0 finished on worker 0
+14:23:20.791 task 1 finished on worker 0
+job finished
+jobId=225 arrivalTime=14:23:18.651 waitTime=4 execTime=2113
+job submitted
+job started
+14:23:22.069 task 0 finished on worker 0
+14:23:23.175 task 1 finished on worker 0
+job finished
+jobId=227 arrivalTime=14:23:21.034 waitTime=4 execTime=2109
+job submitted
+job started
+14:23:24.672 task 0 finished on worker 0
+14:23:25.778 task 1 finished on worker 0
+job finished
+jobId=229 arrivalTime=14:23:23.459 waitTime=185 execTime=2110
+job submitted
+job started
+14:23:27.063 task 0 finished on worker 0
+14:23:28.168 task 1 finished on worker 0
+job finished
+jobId=231 arrivalTime=14:23:26.036 waitTime=1 execTime=2109
+job submitted
+job started
+14:23:29.446 task 0 finished on worker 0
+14:23:30.551 task 1 finished on worker 0
+job finished
+jobId=233 arrivalTime=14:23:28.422 waitTime=3 execTime=2109
+job submitted
+job started
+14:23:31.829 task 0 finished on worker 0
+14:23:32.934 task 1 finished on worker 0
+job finished
+jobId=235 arrivalTime=14:23:30.804 waitTime=3 execTime=2108
+job submitted
+job started
+14:23:34.264 task 0 finished on worker 0
+14:23:35.370 task 1 finished on worker 0
+job finished
+jobId=237 arrivalTime=14:23:33.238 waitTime=2 execTime=2110
+job submitted
+job started
+14:23:36.881 task 0 finished on worker 0
+14:23:37.985 task 1 finished on worker 0
+job finished
+jobId=239 arrivalTime=14:23:35.700 waitTime=153 execTime=2108
+job submitted
+job started
+14:23:39.310 task 0 finished on worker 0
+14:23:40.416 task 1 finished on worker 0
+job finished
+jobId=241 arrivalTime=14:23:38.282 waitTime=2 execTime=2109
+job submitted
+job started
+14:23:41.706 task 0 finished on worker 0
+14:23:42.812 task 1 finished on worker 0
+job finished
+jobId=243 arrivalTime=14:23:40.680 waitTime=3 execTime=2109
+job submitted
+job started
+14:23:44.120 task 0 finished on worker 0
+14:23:45.225 task 1 finished on worker 0
+job finished
+jobId=245 arrivalTime=14:23:43.094 waitTime=4 execTime=2108
+job submitted
+job started
+14:23:46.521 task 0 finished on worker 0
+14:23:47.626 task 1 finished on worker 0
+job finished
+jobId=247 arrivalTime=14:23:45.495 waitTime=3 execTime=2108
+job submitted
+job started
+14:23:48.922 task 0 finished on worker 0
+14:23:50.027 task 1 finished on worker 0
+job finished
+jobId=249 arrivalTime=14:23:47.898 waitTime=2 execTime=2108
+job submitted
+job started
+14:23:51.344 task 0 finished on worker 0
+14:23:52.449 task 1 finished on worker 0
+job finished
+jobId=251 arrivalTime=14:23:50.315 waitTime=3 execTime=2109
+job submitted
+job started
+14:23:53.761 task 0 finished on worker 0
+14:23:54.867 task 1 finished on worker 0
+job finished
+jobId=253 arrivalTime=14:23:52.731 waitTime=2 execTime=2109
+job submitted
+job started
+14:23:56.163 task 0 finished on worker 0
+14:23:57.269 task 1 finished on worker 0
+job finished
+jobId=255 arrivalTime=14:23:55.133 waitTime=2 execTime=2110
+job submitted
+job started
+14:23:58.560 task 0 finished on worker 0
+14:23:59.665 task 1 finished on worker 0
+job finished
+jobId=257 arrivalTime=14:23:57.530 waitTime=2 execTime=2108
+job submitted
+job started
+14:24:00.954 task 0 finished on worker 0
+14:24:02.060 task 1 finished on worker 0
+job finished
+jobId=259 arrivalTime=14:23:59.930 waitTime=3 execTime=2109
