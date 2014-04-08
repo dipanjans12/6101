@@ -17,8 +17,8 @@ import common.*;
 public class Scheduler {
 
 	static final SimpleDateFormat _sdf = new SimpleDateFormat("HH:mm:ss.SSS");
-	private List<Long> timeTakenByJobs = Collections
-			.synchronizedList(new ArrayList<Long>());
+	private List<Long> timeTakenByJobs = new ArrayList<Long>();
+	private List<Long> syncList = new ArrayList<Long>();
 
 	private class ProcessWorkerregNewjob implements Runnable {
 		Socket _s;
@@ -59,8 +59,9 @@ public class Scheduler {
 					dos.writeInt(jobId);
 					dos.flush();
 
-					timeTakenByJobs.add(jobId - 1, 0l);
-
+					timeTakenByJobs.add(0l);
+					syncList.add(0l);
+					
 					// receive the job file and store it to the shared
 					// filesystem
 					String fileName = new String("fs/." + jobId + ".jar");
@@ -86,15 +87,18 @@ public class Scheduler {
 					for (int taskIdStart = 0; taskIdStart < numTasks; taskIdStart++) {
 						while (Collections.min(timeTakenByJobs) != timeTakenByJobs
 								.get(jobId - 1)) {
+							//System.out.println("In while loop min:" + findMinimum(timeTakenByJobs) + " Job id: " + (jobId-1) + " Timetakenbyjob: " + timeTakenByJobs.get(jobId - 1));
 							try {
 								Thread.sleep(1 * 1000);
 							} catch (Exception e) {
 								//
 							}
 						}
+						// get a free worker
+						WorkerNode n = cluster.getFreeWorkerNode();
 						Thread t = new Thread(new ProcessTasks(jobId,
 								taskIdStart, className, dis, dos,
-								task_start_notified));
+								task_start_notified, n));
 						ths.add(t);
 						t.start();
 
@@ -123,16 +127,18 @@ public class Scheduler {
 			DataInputStream dis;
 			DataOutputStream dos;
 			AtomicBoolean task_start_notified;
-
+			WorkerNode n;
+			
 			ProcessTasks(int jobId, int taskIdStart, String className,
 					DataInputStream dis, DataOutputStream dos,
-					AtomicBoolean task_start_notified) {
+					AtomicBoolean task_start_notified, WorkerNode n) {
 				this.jobId = jobId;
 				this.taskIdStart = taskIdStart;
 				this.className = className;
 				this.dis = dis;
 				this.dos = dos;
 				this.task_start_notified = task_start_notified;
+				this.n = n;
 			}
 
 			public void run() {
@@ -140,7 +146,7 @@ public class Scheduler {
 					final int numTasksPerWorker = 1;
 
 					// get a free worker
-					WorkerNode n = cluster.getFreeWorkerNode();
+					//WorkerNode n = cluster.getFreeWorkerNode();
 
 					boolean ts_notified = task_start_notified.getAndSet(true);
 					if (!ts_notified) {
@@ -179,8 +185,10 @@ public class Scheduler {
 						}
 					}
 					long timeTaken = System.nanoTime() - startTime;
-					timeTakenByJobs.add(jobId - 1,
-							timeTakenByJobs.get(jobId - 1) + timeTaken);
+					
+					synchronized(syncList.get(jobId - 1)){
+						timeTakenByJobs.set(jobId - 1, timeTakenByJobs.get(jobId - 1) + timeTaken);
+					}
 					// disconnect and free the worker
 					wis.close();
 					wos.close();

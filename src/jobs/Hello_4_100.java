@@ -9,7 +9,7 @@ public class Hello_4_100 extends Job {
 
   @Override
   public void config() {
-    setNumTasks(4); //set the number of tasks
+    setNumTasks(16); //set the number of tasks
   }
 
   @Override
@@ -17,7 +17,7 @@ public class Hello_4_100 extends Job {
     //System.out.println(_sdf.format(System.currentTimeMillis()) +
     //    " task"+tId+": Hello_4_1000"); //this string will be printed out from worker instead of client
     try{
-      Thread.sleep(100);
+      Thread.sleep(5000);
     } catch(Exception e) {
       e.printStackTrace();
     }
