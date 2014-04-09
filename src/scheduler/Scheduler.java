@@ -86,14 +86,7 @@ public class Scheduler {
 					AtomicBoolean task_start_notified = new AtomicBoolean();
 					for (int taskIdStart = 0; taskIdStart < numTasks; taskIdStart++) {
 						while (Collections.min(timeTakenByJobs) != timeTakenByJobs
-								.get(jobId - 1)) {
-							//System.out.println("In while loop min:" + findMinimum(timeTakenByJobs) + " Job id: " + (jobId-1) + " Timetakenbyjob: " + timeTakenByJobs.get(jobId - 1));
-							try {
-								Thread.sleep(1 * 1000);
-							} catch (Exception e) {
-								//
-							}
-						}
+								.get(jobId - 1)); 
 						// get a free worker
 						WorkerNode n = cluster.getFreeWorkerNode();
 						Thread t = new Thread(new ProcessTasks(jobId,
