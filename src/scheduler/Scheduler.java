@@ -109,7 +109,7 @@ public class Scheduler {
 					// notify the client
 					dos.writeInt(Opcode.job_finish);
 					dos.flush();
-					timeTakenByJobs.add(jobId - 1, Long.MAX_VALUE);
+					timeTakenByJobs.set(jobId - 1, Long.MAX_VALUE);
 				}
 				
 				dis.close();
